@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: century "Franklin Gothic Medium", "Arial Narrow", Arial,
+    sans-serif;
+}
+
+body {
+  background-color: #ededed;
+}
+
+form {
+  width: 700px;
+  margin: auto;
+  background-color: #8bd;
+  margin-top: 100px;
+}
+
+input,
+textarea {
+  margin: 15px;
+  padding: 10px;
+  width: 660px;
+  font-size: 18px;
+}
+
+textarea {
+  min-width: 640px;
+  max-width: 640px;
+  min-height: 100px;
+  max-height: 200px;
+}
